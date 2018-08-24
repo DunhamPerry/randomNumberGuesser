@@ -14,7 +14,7 @@ public class NumberGuesser
 		static int userDifficulty;
 		public static void main(String[] args)
 			{
-				
+				//yees
 				greetPlayer();
 				while (isStillPlaying){
 					pickDifficulty();
